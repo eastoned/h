@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 20084fc7be0dc2d4facf702243a2c593
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  - first:
+      74: -828473122679330450
+    second: "Obj3d66-598285-1-365|(VR)\u592A\u9633001.Target|Take 001|BaseLayer"
+  - first:
+      74: 870483491930075135
+    second: "Obj3d66-598285-1-365|(VR)\u592A\u9633001|Take 001|BaseLayer"
+  - first:
+      74: -3505330047416570941
+    second: "Obj3d66-598285-1-365|(VR)\u706F\u5149003|Take 001|BaseLayer"
+  - first:
+      74: -6917712601038952664
+    second: Obj3d66-598285-1-365|2a011|Take 001|BaseLayer
+  - first:
+      74: -933386933066440766
+    second: Obj3d66-598285-1-365|2a012|Take 001|BaseLayer
+  - first:
+      74: 817091867761705493
+    second: Obj3d66-598285-1-365|Group-999024-1-606|Take 001|BaseLayer
+  - first:
+      74: 1481820788322121282
+    second: Obj3d66-598285-1-365|Group-999024-15-895|Take 001|BaseLayer
+  - first:
+      74: 4959855648272081263
+    second: Obj3d66-598285-1-365|Group-999024-16-367|Take 001|BaseLayer
+  - first:
+      74: -7367210846328899787
+    second: Obj3d66-598285-1-365|Group-999024-17-645|Take 001|BaseLayer
+  - first:
+      74: -2715383140920955068
+    second: Obj3d66-598285-1-365|Group-999024-18-39|Take 001|BaseLayer
+  - first:
+      74: -6109674022667264983
+    second: Obj3d66-598285-1-365|Group-999024-2-593|Take 001|BaseLayer
+  - first:
+      74: -6499250281063815343
+    second: Obj3d66-598285-1-365|Group-999024-3-713|Take 001|BaseLayer
+  - first:
+      74: -115667633344142163
+    second: Obj3d66-598285-1-365|Group-999024-4-520|Take 001|BaseLayer
+  - first:
+      74: 6549880788748630086
+    second: Obj3d66-598285-1-365|Group-999024-5-342|Take 001|BaseLayer
+  - first:
+      74: -2908252445625702692
+    second: Obj3d66-598285-1-365|Group-999024-6-527|Take 001|BaseLayer
+  - first:
+      74: -309835408270647078
+    second: Obj3d66-598285-1-365|Obj3d66-598285-1-365|Take 001|BaseLayer
+  - first:
+      74: -8030987990898731102
+    second: Obj3d66-598285-1-365|Obj3d66-598285-2-949|Take 001|BaseLayer
+  - first:
+      74: 2568202221366110845
+    second: Obj3d66-598285-1-365|Obj3d66-598285-3-138|Take 001|BaseLayer
+  - first:
+      74: -8741688272963070607
+    second: "Obj3d66-598285-1-365|\u52A8\u4F5C\u6062\u590D|Take 001|BaseLayer"
+  - first:
+      74: 254705226402623528
+    second: "Obj3d66-598285-2-949|(VR)\u592A\u9633001.Target|Take 001|BaseLayer"
+  - first:
+      74: 7151640808620014959
+    second: "Obj3d66-598285-2-949|(VR)\u592A\u9633001|Take 001|BaseLayer"
+  - first:
+      74: -4182211658258434286
+    second: "Obj3d66-598285-2-949|(VR)\u706F\u5149003|Take 001|BaseLayer"
+  - first:
+      74: 5836554599816280095
+    second: Obj3d66-598285-2-949|2a011|Take 001|BaseLayer
+  - first:
+      74: -444526534390318552
+    second: Obj3d66-598285-2-949|2a012|Take 001|BaseLayer
+  - first:
+      74: -2657677272818231068
+    second: Obj3d66-598285-2-949|Group-999024-1-606|Take 001|BaseLayer
+  - first:
+      74: 4248663854143682513
+    second: Obj3d66-598285-2-949|Group-999024-15-895|Take 001|BaseLayer
+  - first:
+      74: -5226733264301379954
+    second: Obj3d66-598285-2-949|Group-999024-16-367|Take 001|BaseLayer
+  - first:
+      74: 2305413783151238382
+    second: Obj3d66-598285-2-949|Group-999024-17-645|Take 001|BaseLayer
+  - first:
+      74: -5407426890053502242
+    second: Obj3d66-598285-2-949|Group-999024-18-39|Take 001|BaseLayer
+  - first:
+      74: -6647481901763891073
+    second: Obj3d66-598285-2-949|Group-999024-2-593|Take 001|BaseLayer
+  - first:
+      74: 7021525003471694995
+    second: Obj3d66-598285-2-949|Group-999024-3-713|Take 001|BaseLayer
+  - first:
+      74: -7100715638159738784
+    second: Obj3d66-598285-2-949|Group-999024-4-520|Take 001|BaseLayer
+  - first:
+      74: 4246700664496350308
+    second: Obj3d66-598285-2-949|Group-999024-5-342|Take 001|BaseLayer
+  - first:
+      74: -1763298372056690718
+    second: Obj3d66-598285-2-949|Group-999024-6-527|Take 001|BaseLayer
+  - first:
+      74: -1153750185567195096
+    second: Obj3d66-598285-2-949|Obj3d66-598285-1-365|Take 001|BaseLayer
+  - first:
+      74: -4838184908780745696
+    second: Obj3d66-598285-2-949|Obj3d66-598285-2-949|Take 001|BaseLayer
+  - first:
+      74: 5601313151480918050
+    second: Obj3d66-598285-2-949|Obj3d66-598285-3-138|Take 001|BaseLayer
+  - first:
+      74: 2690545675487531220
+    second: "Obj3d66-598285-2-949|\u52A8\u4F5C\u6062\u590D|Take 001|BaseLayer"
+  - first:
+      74: 9181356046096756460
+    second: "Obj3d66-598285-3-138|(VR)\u592A\u9633001.Target|Take 001|BaseLayer"
+  - first:
+      74: 4183023210962639236
+    second: "Obj3d66-598285-3-138|(VR)\u592A\u9633001|Take 001|BaseLayer"
+  - first:
+      74: 3375712450714856706
+    second: "Obj3d66-598285-3-138|(VR)\u706F\u5149003|Take 001|BaseLayer"
+  - first:
+      74: -5182018310299902372
+    second: Obj3d66-598285-3-138|2a011|Take 001|BaseLayer
+  - first:
+      74: 3167388569983836979
+    second: Obj3d66-598285-3-138|2a012|Take 001|BaseLayer
+  - first:
+      74: 1710905025274194919
+    second: Obj3d66-598285-3-138|Group-999024-1-606|Take 001|BaseLayer
+  - first:
+      74: 6543450348426560956
+    second: Obj3d66-598285-3-138|Group-999024-15-895|Take 001|BaseLayer
+  - first:
+      74: 1422234265300277925
+    second: Obj3d66-598285-3-138|Group-999024-16-367|Take 001|BaseLayer
+  - first:
+      74: -7640390384805863062
+    second: Obj3d66-598285-3-138|Group-999024-17-645|Take 001|BaseLayer
+  - first:
+      74: -5161782651239309751
+    second: Obj3d66-598285-3-138|Group-999024-18-39|Take 001|BaseLayer
+  - first:
+      74: 4767833353998928452
+    second: Obj3d66-598285-3-138|Group-999024-2-593|Take 001|BaseLayer
+  - first:
+      74: -7751049219191926897
+    second: Obj3d66-598285-3-138|Group-999024-3-713|Take 001|BaseLayer
+  - first:
+      74: 2521459270004896790
+    second: Obj3d66-598285-3-138|Group-999024-4-520|Take 001|BaseLayer
+  - first:
+      74: -534062265081748631
+    second: Obj3d66-598285-3-138|Group-999024-5-342|Take 001|BaseLayer
+  - first:
+      74: 3507790539387987979
+    second: Obj3d66-598285-3-138|Group-999024-6-527|Take 001|BaseLayer
+  - first:
+      74: 8097008980954481877
+    second: Obj3d66-598285-3-138|Obj3d66-598285-1-365|Take 001|BaseLayer
+  - first:
+      74: -7027786104447293599
+    second: Obj3d66-598285-3-138|Obj3d66-598285-2-949|Take 001|BaseLayer
+  - first:
+      74: -473323851734610561
+    second: Obj3d66-598285-3-138|Obj3d66-598285-3-138|Take 001|BaseLayer
+  - first:
+      74: 3014083130025910122
+    second: "Obj3d66-598285-3-138|\u52A8\u4F5C\u6062\u590D|Take 001|BaseLayer"
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat3d66-598285-1-238
+    second: {fileID: 2100000, guid: 7185dfcada14a554d90d8e65ff478b7e, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 2
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
