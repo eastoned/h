@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+
 public class PlayerStart : MonoBehaviour
 {
     AudioSource audio;
@@ -53,6 +55,11 @@ public class PlayerStart : MonoBehaviour
             yield return null;
         }
         Debug.Log("End Ended Quit");
-        Application.Quit();
+
+#if UNITY_STANDALONE_OSX || UNITY_STANDALONE_WIN
+            Application.Quit();
+#elif UNITY_WEBGL
+        SceneManager.LoadScene(0);
+#endif
     }
 }
