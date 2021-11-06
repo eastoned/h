@@ -11,13 +11,12 @@ GameObject:
   - component: {fileID: 4240583038686764}
   - component: {fileID: 33426038310224068}
   - component: {fileID: 23889169680132612}
-  - component: {fileID: 65594218217026762}
   m_Layer: 0
   m_Name: Tombstone_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 123
   m_IsActive: 1
 --- !u!4 &4240583038686764
 Transform:
@@ -81,19 +80,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!65 &65594218217026762
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1939952989908428}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 11.811038, y: 68.32681, z: 117.503426}
-  m_Center: {x: -5.905519, y: 34.1634, z: 58.751705}
 --- !u!1 &2779526228593138980
 GameObject:
   m_ObjectHideFlags: 0
@@ -109,7 +95,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 123
   m_IsActive: 1
 --- !u!4 &439772558661363455
 Transform:
